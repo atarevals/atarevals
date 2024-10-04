@@ -1,7 +1,7 @@
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E407&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ata+Revals;Hi+%F0%9F%91%8B%2C+I'm+Ata+Esmaeilpour" alt="Typing SVG" /></a>
 <h3 align="left">Full-stack Developer | Game UI UX Designer</h3>
 
-
+<a href="https://discord.gg/5tVUgq8" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 
 
 - 🔭 I’m currently working on [Ata Store](https://ata.tebex.io/)
