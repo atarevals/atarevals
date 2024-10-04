@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ata</h1>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E407&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ata+Revals;Hi+%F0%9F%91%8B%2C+I'm+Ata+Esmaeilpour" alt="Typing SVG" /></a>
 <h3 align="center">Full-stack Developer | Game UI UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atarevals&label=Profile%20views&color=ffdd00&style=plastic" alt="atarevals" /> </p>
