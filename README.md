@@ -30,6 +30,7 @@
 </p>
 
 <h3 align="left">My Skills:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,cs,react,figma,unity,vscode,visualstudio)](https://skillicons.dev)
 
 
