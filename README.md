@@ -39,10 +39,5 @@
 
 <h3 align="left">Last Projects:</h3>
 <!-- BEGIN YOUTUBE-CARDS -->
-[![ata Shop Supermarket Script [ESX] [QB] [Fivem]](https://ytcards.demolab.com/?id=rd6OOfN2RPA&title=ata+Shop+Supermarket+Script+%5BESX%5D+%5BQB%5D+%5BFivem%5D&lang=en&timestamp=1726519311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ata Shop Supermarket Script [ESX] [QB] [Fivem]")](https://www.youtube.com/watch?v=rd6OOfN2RPA)
-[![Einreise Script NEW [ESX] [QB] [Fivem]](https://ytcards.demolab.com/?id=SKkI2Wr-Ms4&title=Einreise+Script+NEW+%5BESX%5D+%5BQB%5D+%5BFivem%5D&lang=en&timestamp=1725194079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Einreise Script NEW [ESX] [QB] [Fivem]")](https://www.youtube.com/watch?v=SKkI2Wr-Ms4)
-[![ata References invite system [FIVEM] [ESX] [QB]](https://ytcards.demolab.com/?id=Sgv6QYJS0_A&title=ata+References+invite+system+%5BFIVEM%5D+%5BESX%5D+%5BQB%5D&lang=en&timestamp=1717633742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ata References invite system [FIVEM] [ESX] [QB]")](https://www.youtube.com/watch?v=Sgv6QYJS0_A)
-[![ata FPS MENU [FiveM]](https://ytcards.demolab.com/?id=ehjTkcyUf0M&title=ata+FPS+MENU+%5BFiveM%5D&lang=en&timestamp=1717322789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ata FPS MENU [FiveM]")](https://www.youtube.com/watch?v=ehjTkcyUf0M)
-[![Ata Notification V2 [FiveM]](https://ytcards.demolab.com/?id=Uwj77Pp3woM&title=Ata+Notification+V2+%5BFiveM%5D&lang=en&timestamp=1716966048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ata Notification V2 [FiveM]")](https://www.youtube.com/watch?v=Uwj77Pp3woM)
-[![Ata Coin Shop System [FiveM] [ESX] [QBCore]](https://ytcards.demolab.com/?id=M3DEKzjt_6Q&title=Ata+Coin+Shop+System+%5BFiveM%5D+%5BESX%5D+%5BQBCore%5D&lang=en&timestamp=1716896159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ata Coin Shop System [FiveM] [ESX] [QBCore]")](https://www.youtube.com/watch?v=M3DEKzjt_6Q)
+
 <!-- END YOUTUBE-CARDS -->
